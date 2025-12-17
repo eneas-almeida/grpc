@@ -823,15 +823,15 @@ CARACTERÍSTICAS TÉCNICAS:
 │ Contrato            │ OpenAPI/Swagger  │ .proto (forte)   │
 │ Geração de Código   │ Manual/Opcional  │ Automática       │
 │ Streaming           │ ✗ Não suportado  │ ✓ Bidirecional   │
-│ Browser Support     │ ✓ Nativo         │ ✗ Requer proxy   │
-│ Multiplexing        │ ✗ Não            │ ✓ Sim            │
-│ Latência            │ Alta             │ Baixa            │
+│ Browser Support     │ ✓ Nativo        │ ✗ Requer proxy   │
+│ Multiplexing        │ ✗ Não           │ ✓ Sim            │
+│ Latência            │ Alta            │ Baixa            │
 │ Payload Size        │ Grande           │ Pequeno (60%)    │
 │ Verbos/Métodos      │ GET/POST/PUT/DEL │ Customizáveis    │
 │ Tipo de Comunicação │ Unidirecional    │ Bidirecional     │
 │ Debugging           │ Fácil (cURL)     │ Requer tools     │
-│ Caching             │ ✓ HTTP Cache     │ ✗ Complexo       │
-│ Load Balancing      │ ✓ Padrão         │ ✓ Com config     │
+│ Caching             │ ✓ HTTP Cache    │ ✗ Complexo       │
+│ Load Balancing      │ ✓ Padrão        │ ✓ Com config     │
 └─────────────────────┴──────────────────┴──────────────────┘
 
 
